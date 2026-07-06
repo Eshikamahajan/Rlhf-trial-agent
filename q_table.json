@@ -1,0 +1,26 @@
+{
+  "symptoms=2_urgency=unknown": {
+    "ask_more_questions": 0.51,
+    "call_urgency_tool": -0.3,
+    "call_care_tool": 0.0,
+    "refer_doctor": -0.3
+  },
+  "symptoms=3_urgency=unknown": {
+    "ask_more_questions": 0.0,
+    "call_urgency_tool": -0.3,
+    "call_care_tool": 0.582,
+    "refer_doctor": 0.0
+  },
+  "symptoms=2_urgency=medium": {
+    "ask_more_questions": 0.0,
+    "call_urgency_tool": 0.0,
+    "call_care_tool": 0.0,
+    "refer_doctor": -0.3
+  },
+  "symptoms=3_urgency=medium": {
+    "ask_more_questions": 0.0,
+    "call_urgency_tool": 0.0,
+    "call_care_tool": -0.3,
+    "refer_doctor": 0.0
+  }
+}
