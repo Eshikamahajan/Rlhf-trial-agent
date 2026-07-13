@@ -1,0 +1,14 @@
+{
+  "issue=order_delay_severity=unknown_user=regular": {
+    "ask_more_questions": 0.0,
+    "check_status_tool": 0.3,
+    "offer_resolution_tool": 0.0,
+    "escalate_to_support": 0.0
+  },
+  "issue=order_delay_severity=moderate_user=regular": {
+    "ask_more_questions": 0.0,
+    "check_status_tool": 0.0,
+    "offer_resolution_tool": 0.0,
+    "escalate_to_support": 0.0
+  }
+}
